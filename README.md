@@ -5,6 +5,8 @@
 
 <br><a href="#"><img src="https://i.ibb.co/wScHWQG/smsbombydn.jpg"></a><br>
 <br><a href="#"><img src="https://i.ibb.co/K69QGZ5/smsbombydn1.jpg"></a><br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnnihad&repo=dnsms&theme=synthwave">
+</p>
 ## WAITING :
 <br>
 
