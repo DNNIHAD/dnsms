@@ -40,5 +40,14 @@
 # one click install 
 
 ```
-apt update && upgrade ; pkg install python -y ; pkg install python2 -y ; pkg install figlet -y ; pip install lolcat ; pip install requests ; pip install mechanize ; pkg install wget  ; cd $HOME ; rm -rf sms.py ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py ; python sms.py
-```
+apt update && upgrade ; pkg install python -y ; pkg install python2 -y ; pkg install figlet -y ; pip install lolcat ; pip install requests ; pip install mechanize ; pkg install wget  ; cd $HOME ; rm -rf sms.py ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py ; python 
+Developer Contact
+
+**Developer Contact**
+
+* Name: DN NIHAD
+
+* Email: dnnihad@protonmail.com
+
+* [Check out My YouTube Channel](https://youtube.com/channel/UCv1GtosBojsbCxew6irw5HQ)
+
